@@ -1,2 +1,6 @@
-# Smart-Playlist-Smoother-Transitions
-A System For Song Recommendation And Intelligent Music Mixing
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/your-username/your-repo.git
+git push -u origin main
